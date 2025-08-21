@@ -37,7 +37,7 @@
 
 ## Usage
 
-Linux is currently the best supported platform (tested with Ubuntu 20.04/22.04 LTS). Windows and macOS are also supported, but you might experience more issues.
+Linux is currently the best supported platform (tested with Ubuntu 24.04 LTS). Windows and macOS are also supported, but you might experience more issues.
 
 ### 1. Download OpenAndroidInstaller
 
